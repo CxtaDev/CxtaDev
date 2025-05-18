@@ -67,7 +67,7 @@
 
 ## 📫 Contacto
 
-- 📧 Email: [teu.email@exemplo.com](mailto:teu.email@exemplo.com)  
+- 📧 Email: [cxtadev@cxtadev.pt](mailto:cxtadev@cxtadev.pt)  
 - 💬 Discord: **CxtaDev#1234**
 
 ---
